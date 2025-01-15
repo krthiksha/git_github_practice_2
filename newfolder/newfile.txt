@@ -1,0 +1,1 @@
+New folder and a file inside that folder was created successfully using the git commands
